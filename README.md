@@ -1,4 +1,4 @@
-# 🔒 SecureKeep fPassword Manager
+# 🔒 SecureKeep Password Manager
 
 A secure, client-side encrypted password manager that keeps your credentials safe while providing a clean, intuitive interface.
 
