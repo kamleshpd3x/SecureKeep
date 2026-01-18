@@ -1,8 +1,8 @@
-# 🔒 IronCloak Password Manager
+# 🔒 SecureKeep fPassword Manager
 
 A secure, client-side encrypted password manager that keeps your credentials safe while providing a clean, intuitive interface.
 
-🔗 **Check it out:** [IronCloak Password Manager](https://ironcloak-aes-256-1.onrender.com/)
+🔗 **Check it out:** [SecureKeep Password Manager](https://SecureKeep-aes-256-1.onrender.com/)
 
 ## 🛡️ Features
 
@@ -27,8 +27,8 @@ A secure, client-side encrypted password manager that keeps your credentials saf
 1. Clone the repository
 
 ```bash
-git clone https://github.com/rohitghosh1763/IronCloak-AES-256.git
-cd ironcloak
+git clone https://github.com/rohitghosh1763/SecureKeep-AES-256.git
+cd SecureKeep
 ```
 
 2. Install dependencies
