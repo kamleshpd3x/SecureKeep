@@ -120,4 +120,4 @@ This is a demonstration project. While it implements proper encryption technique
 
 ---
 
-Made with ❤️ by [Rohit Ghosh]
+Made with ❤️ by [Kamlesh Prasad]
